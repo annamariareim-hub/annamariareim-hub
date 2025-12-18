@@ -1,7 +1,7 @@
 # Anna Reim - QA Engineer (Manual + API)
 
 QA Engineer with 1+ year of experience in end-to-end testing of web applications (front-end + back-end).  
-I focus on **functional, regression, and API testing**, with a strong eye for detail and a systematic approach to quality assurance.
+I focus on **functional, regression, and API testing**, with a strong eye for detail and a systematic approach to quality assurance. You are welcome to check out my <a href="https://drive.google.com/file/d/1pPgPNxk5skchRI6_visO3CHdFumdfEKW/view?usp=sharing">resume</a>.</p>
 
 - 🧪 **Testing Scope**: Functional, Regression, Smoke, Sanity, Integration, API, UI, Mobile (emulators + real devices)
 - 🛠️ **Tools & Tech**: Postman, Swagger, SQL (MySQL), DBeaver, Jira, Confluence, Yandex Tracker, BrowserStack, Charles Proxy, DevTools
