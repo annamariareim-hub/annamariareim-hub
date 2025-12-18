@@ -2,10 +2,10 @@
 
 QA Engineer with 1+ year of experience in end-to-end testing of web applications (front-end + back-end).  
 I focus on **functional, regression, and API testing**, with a strong eye for detail and a systematic approach to quality assurance. You are welcome to check out my <a href="https://drive.google.com/file/d/1pPgPNxk5skchRI6_visO3CHdFumdfEKW/view?usp=sharing">resume</a>.</p>
-<img align="right" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExaTlkdW9hczBucjFsZXJiajczMDA0Nm1vcWR6dGJjOW0wY3p4enZwaSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/Cmr1OMJ2FN0B2/giphy.gif" height="245" alt="QA testing gif">
-
 
 <h2>A Few Quick Facts</h2>
+<img align="right" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExaTlkdW9hczBucjFsZXJiajczMDA0Nm1vcWR6dGJjOW0wY3p4enZwaSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/Cmr1OMJ2FN0B2/giphy.gif" height="245" alt="QA testing gif">
+<ul>
 - 🧪 **Testing Scope**: Functional, Regression, Smoke, Sanity, Integration, API, UI, Mobile (emulators + real devices)
 - 🛠️ **Tools & Tech**: Postman, Swagger, SQL (MySQL), DBeaver, Jira, Confluence, Yandex Tracker, BrowserStack, Charles Proxy, DevTools
 - 💬 **Languages**: Languages: English (B1, actively improving), Russian
@@ -14,7 +14,7 @@ I focus on **functional, regression, and API testing**, with a strong eye for de
 🤝 Whether it's team brainstorming or quiet routine testing, I enjoy both sides of QA work.
 - 📧 **Contact**: [annamariareim2396@gmail.com](mailto:annamariareim2396@gmail.com)  
 - 💬 **Telegram**: [@AMReym](https://t.me/AMReym)
-  
+</ul>
 <h2>Some Tools I Use</h2>
 <p align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jira/jira-original.svg" title="Jira" alt="Jira" width="40" height="40"/>
