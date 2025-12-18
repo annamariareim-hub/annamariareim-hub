@@ -13,7 +13,7 @@ I focus on **functional, regression, and API testing**, with a strong eye for de
 🔍 I participated in all stages of the SDLC: planning, test design, execution, bug reporting, and retrospectives.  
 🤝 Whether it's team brainstorming or quiet routine testing, I enjoy both sides of QA work.
 - 📧 **Contact**: [annamariareim2396@gmail.com](mailto:annamariareim2396@gmail.com)  
-- 💬 **Telegram**: [@AMReym](https://t.me/AMReym)
+- 📲 **Telegram**: [@AMReym](https://t.me/AMReym)
 
 <h2>Some Tools I Use</h2>
 <p align="center">
