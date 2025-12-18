@@ -7,8 +7,8 @@ I focus on **functional, regression, and API testing**, with a strong eye for de
 - 🛠️ **Tools & Tech**: Postman, Swagger, SQL (MySQL), DBeaver, Jira, Confluence, Yandex Tracker, BrowserStack, Charles Proxy, DevTools
 - 💬 **Languages**: Languages: English (B1, actively improving), Russian
 - 🏢 **Recent Project**: HR automation web platform (Smart-Portal) — from requirements analysis to post-release monitoring
-- > 🔍 I participated in all stages of the SDLC: planning, test design, execution, bug reporting, and retrospectives.  
-
+🔍 I participated in all stages of the SDLC: planning, test design, execution, bug reporting, and retrospectives.  
+🤝 Whether it's team brainstorming or quiet routine testing, I enjoy both sides of QA work.
 - 📧 **Contact**: [annamariareim2396@gmail.com](mailto:annamariareim2396@gmail.com)  
 - 💬 **Telegram**: [@AMReym](https://t.me/AMReym)
   
@@ -54,3 +54,9 @@ I focus on **functional, regression, and API testing**, with a strong eye for de
 - Contribute to high-quality, user-friendly software
 
 *Outside work: board games, escape rooms, quiz nights 🎲*
+
+<h3 align="center">📫 Let’s connect and collaborate!</h3>
+<p align="center">
+  <a href="https://t.me/AMReym"><img src="https://img.icons8.com/color/48/000000/telegram-app--v2.png" width="40" height="40" alt="Telegram"/></a>
+  <a href="mailto:annamariareim2396@gmail.com"><img src="https://img.icons8.com/color/48/000000/gmail.png" width="40" height="40" alt="Gmail"/></a>
+</p>
