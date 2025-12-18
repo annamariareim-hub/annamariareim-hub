@@ -56,7 +56,7 @@ I focus on **functional, regression, and API testing**, with a strong eye for de
 - Improve communication in English for international collaboration
 - Contribute to high-quality, user-friendly software
 
-*Outside work: board games, escape rooms, quiz nights 🎲*
+*🎲 Outside work: board games, escape rooms, quiz nights😊*
 
 <h3 align="center">📫 Let’s connect and collaborate!</h3>
 <p align="center">
