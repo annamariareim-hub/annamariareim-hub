@@ -1,4 +1,4 @@
-# Anna Reim — QA Engineer (Manual + API)
+# Anna Reim - QA Engineer (Manual + API)
 
 QA Engineer with 1+ year of experience in end-to-end testing of web applications (front-end + back-end).  
 I focus on **functional, regression, and API testing**, with a strong eye for detail and a systematic approach to quality assurance.
