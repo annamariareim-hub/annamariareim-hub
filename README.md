@@ -1,16 +1,19 @@
-## Hi there 👋
+# Anna Reim — QA Engineer
 
-<!--
-**annamariareim-hub/annamariareim-hub** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Hello! I'm Anna, a QA engineer with 1+ year of experience in web application testing.  
+I specialize in **functional, regression, and API testing**, and I'm passionate about quality, automation, and continuous learning.
 
-Here are some ideas to get you started:
+- 🧪 **Testing focus**: Frontend + Backend (Web Apps)
+- 🛠️ **Tools**: Postman, SQL, REST APIs, Test Case Management
+- 🎯 **Languages**: English (A1, actively improving), Russian
+- 📧 **Contact**: [annamariareim2396@gmail.com](mailto:annamariareim2396@gmail.com)  
+- 💬 **Telegram**: [@AMReym](https://t.me/AMReym)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🧪 Testing Artefacts
+
+Below are key projects and test assignments I've completed during my QA journey. Each repository includes a detailed README with context, scope, and results.
+
+- **[qa-interview-simple-case](https://github.com/annamariareim-hub/qa-interview-simple-case)**  
+  Functional and regression testing of a simple web form
