@@ -34,12 +34,18 @@ I focus on **functional, regression, and API testing**, with a strong eye for de
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" title="VS Code" alt="VS Code" width="40" height="40"/>
   <img src="https://cdn-icons-png.flaticon.com/512/919/919827.png" title="HTML5" alt="HTML5" width="40" height="40"/>
 </p>
-## 🧪 Testing Artefacts
 
-This portfolio includes hands-on assignments completed during my QA practice. Each repository contains context, test scope, and deliverables.
-
-- **[qa-interview-simple-case](https://github.com/annamariareim-hub/qa-interview-simple-case)**  
-  Full testing cycle for a web form: test cases, bug reports, and documentation.
+<h2>Test Artifacts</h2>
+<ul>
+  <li><a href="https://github.com/osukhorukova/web_testing">Webshop Testing</a> – exploratory and functional testing</li>
+  <li><a href="https://github.com/osukhorukova/api_testing">API Testing</a> – REST and SOAP via Postman</li>
+  <li><a href="https://github.com/osukhorukova/sql">MySQL</a> – queries and DB validation scripts</li>
+  <li><a href="https://github.com/osukhorukova/mongodb">MongoDB</a> – NoSQL queries and exercises</li>
+  <li><a href="https://github.com/osukhorukova/mobile_testing">Android App Testing</a> – manual test cases and bug reports</li>
+  <li><a href="https://github.com/osukhorukova/charlesproxy">Charles Proxy</a> – mock responses and network inspection</li>
+  <li><a href="https://github.com/osukhorukova/bash">Bash</a> – scripts for QA tasks</li>
+  <li><a href="https://github.com/osukhorukova/git">Git</a> – basic version control commands</li>
+</ul>
 
 ## 🎯 Goals & Interests
 
