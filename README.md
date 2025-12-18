@@ -2,7 +2,7 @@
 
 QA Engineer with 1+ year of experience in end-to-end testing of web applications (front-end + back-end).  
 I focus on **functional, regression, and API testing**, with a strong eye for detail and a systematic approach to quality assurance. You are welcome to check out my <a href="https://drive.google.com/file/d/1pPgPNxk5skchRI6_visO3CHdFumdfEKW/view?usp=sharing">resume</a>.</p>
-<img align="right" src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExNWxlcTZzdDNkb3B1dWIyazBhNXpsZ2RtejNtM3lkMW1uMTNteDN6biZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/Wj7lNjMNDxSmc/giphy.gif" height="245" alt="QA testing gif">
+<img align="right" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExaTlkdW9hczBucjFsZXJiajczMDA0Nm1vcWR6dGJjOW0wY3p4enZwaSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/Cmr1OMJ2FN0B2/giphy.gif" height="245" alt="QA testing gif">
 
 
 <h2>A Few Quick Facts</h2>
