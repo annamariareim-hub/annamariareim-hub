@@ -42,7 +42,7 @@ I focus on **functional, regression, and API testing**, with a strong eye for de
 <ul>
   <li><a href="https://github.com/annamariareim-hub/Web_testing">Webshop Testing</a> – exploratory and functional testing</li>
   <li><a href="https://github.com/annamariareim-hub/Api_testing/tree/main">API Testing</a> – REST and SOAP via Postman</li>
-  <li><a href="https://github.com/">MySQL</a> – queries and DB validation scripts</li>
+  <li><a href="https://github.com/annamariareim-hub/SQL">MySQL</a> – queries and DB validation scripts</li>
   <li><a href="https://github.com/">MongoDB</a> – NoSQL queries and exercises</li>
   <li><a href="https://github.com">Android App Testing</a> – manual test cases and bug reports</li>
   <li><a href="https://github.com/">Charles Proxy</a> – mock responses and network inspection</li>
