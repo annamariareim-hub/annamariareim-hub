@@ -40,7 +40,7 @@ I focus on **functional, regression, and API testing**, with a strong eye for de
 
 <h2>Test Artifacts</h2>
 <ul>
-  <li><a href="https://github.com/">Webshop Testing</a> – exploratory and functional testing</li>
+  <li><a href="https://github.com/annamariareim-hub/Web_testing">Webshop Testing</a> – exploratory and functional testing</li>
   <li><a href="https://github.com/">API Testing</a> – REST and SOAP via Postman</li>
   <li><a href="https://github.com/">MySQL</a> – queries and DB validation scripts</li>
   <li><a href="https://github.com/">MongoDB</a> – NoSQL queries and exercises</li>
