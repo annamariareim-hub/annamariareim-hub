@@ -63,3 +63,7 @@ I focus on **functional, regression, and API testing**, with a strong eye for de
   <a href="https://t.me/AMReym"><img src="https://img.icons8.com/color/48/000000/telegram-app--v2.png" width="40" height="40" alt="Telegram"/></a>
   <a href="mailto:annamariareim2396@gmail.com"><img src="https://img.icons8.com/color/48/000000/gmail.png" width="40" height="40" alt="Gmail"/></a>
 </p>
+
+
+
+feat: add professional README for overview
